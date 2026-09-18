@@ -1,0 +1,37 @@
+{
+  "name": "halls-ai-os-final-project",
+  "version": "1.0.0",
+  "description": "**Final Project HALLS AI OS** - Platform Terintegrasi dengan Bot Aktif, Sistem Autentikasi Multi-Tahap, Dashboard Komprehensif, dan Aplikasi Web Terdistribusi",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cHalls-claud/-halls-ai-os-final-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cHalls-claud/-halls-ai-os-final-project/issues"
+  },
+  "homepage": "https://github.com/cHalls-claud/-halls-ai-os-final-project#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0",
+    "next": "^16.3.5",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.1",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.3.5",
+    "typescript": "^7.0.2"
+  }
+}
